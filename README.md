@@ -1,10 +1,20 @@
 # getx_demo
 
-A new Flutter project.
+GetX Counter Demo with full understanding of State Management, Route Management and SnackBar.
 
-## Getting Started
+## **📽️ Demo**
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/70565731/159560861-93331f0d-7f78-4f6a-a9be-1a65acf05006.mp4
+
+## **📕 Usage**
+### Going through it, firstly, clone this repository by:
+
+```git clone https://github.com/tduongtad1304/getx_demo.git```
+
+Then navigate to the folder by: ``` cd getx_demo ``` and type: ``` code . ``` (For VSCode instance)
+
+Next, just run: ``` flutter pub get ``` on the **Terminal** and finally run this project by: ``` flutter run ```
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +24,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+
